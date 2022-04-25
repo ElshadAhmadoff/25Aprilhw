@@ -1,0 +1,51 @@
+.az{
+    margin-left: 34px;
+}
+.ad{
+    margin-left: 34.5px;
+}
+.aw{
+    margin-left: 22px;
+}
+.one{
+    border: 2px solid black;
+    width: 700px;
+    height: 140px;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-left: 27px;
+}
+.two{
+    border: 2px solid black;
+    width: 700px;
+    height: 90px;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-left: 27px;
+}
+.three{
+    border: 2px solid black;
+    width: 700px;
+    height: 100px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 27px;
+}
+button{
+    margin-left: 40px;
+    width: 240px;
+    border-radius: 5px;
+    height: 25px;
+}
+.a{
+    border: 10px solid blue;
+    width: 800px;
+    height: 680px;
+    box-shadow: 5px 5px 5px 5px;
+    margin-left: 340px;
+}
+h1{
+    margin-left: 27px;
+}
+
+

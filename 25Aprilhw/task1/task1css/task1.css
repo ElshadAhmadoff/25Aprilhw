@@ -1,0 +1,29 @@
+.zero{
+    width: 100vw;
+    height: 100vh;
+}
+.one{
+    width: 40%;
+    margin-left: 400px;
+    border-bottom: 3px solid rgb(217, 191, 241);
+
+}
+.two{
+    width: 40%;
+    margin-left: 400px;
+}
+img{
+    margin-left: 200px;
+}
+.one h1{
+    margin-left: 120px;
+    font-size: 30px;
+}
+.two h1{
+    color: rgb(198, 73, 73);
+    font-size: 20px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}

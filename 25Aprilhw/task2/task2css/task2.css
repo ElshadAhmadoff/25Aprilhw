@@ -1,0 +1,47 @@
+div{
+    margin-left: 600px;
+    margin-top: 50px;
+    background-color: white;
+    width: 400px;
+    border-right:  10px solid rgb(95, 182, 95);
+    border-left:  10px solid rgb(95, 182, 95);
+    border-bottom:  10px solid rgb(95, 182, 95);
+    border-top:  4px solid rgb(95, 182, 95);
+    border-radius: 50px 50px 50px 50px;
+    height: 590px;
+}
+body{
+    background-color: rgb(159, 159, 203);
+}
+button{
+    background-color: black;
+    color: white;
+    width: 240px;
+    height: 50px;
+    border: none;
+    border-radius: 60px;
+    font-size: 26px;
+    margin-left: 80px;
+}
+img{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 44px;
+}
+p{
+    text-align: center;
+}
+.one{
+    font-size: 26px;
+    color: rgb(138, 159, 179);
+
+}
+.two{
+    font-size: 22px;
+}
+i{
+    margin-left: 60px;
+}
